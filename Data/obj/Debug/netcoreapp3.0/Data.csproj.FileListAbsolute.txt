@@ -1,0 +1,8 @@
+C:\Users\cons.elzio.oliveira\Desktop\Teste\Minuto\Minuto\Data\bin\Debug\netcoreapp3.0\Data.deps.json
+C:\Users\cons.elzio.oliveira\Desktop\Teste\Minuto\Minuto\Data\bin\Debug\netcoreapp3.0\Data.dll
+C:\Users\cons.elzio.oliveira\Desktop\Teste\Minuto\Minuto\Data\obj\Debug\netcoreapp3.0\Data.csprojAssemblyReference.cache
+C:\Users\cons.elzio.oliveira\Desktop\Teste\Minuto\Minuto\Data\obj\Debug\netcoreapp3.0\Data.AssemblyInfoInputs.cache
+C:\Users\cons.elzio.oliveira\Desktop\Teste\Minuto\Minuto\Data\obj\Debug\netcoreapp3.0\Data.AssemblyInfo.cs
+C:\Users\cons.elzio.oliveira\Desktop\Teste\Minuto\Minuto\Data\bin\Debug\netcoreapp3.0\Data.pdb
+C:\Users\cons.elzio.oliveira\Desktop\Teste\Minuto\Minuto\Data\obj\Debug\netcoreapp3.0\Data.dll
+C:\Users\cons.elzio.oliveira\Desktop\Teste\Minuto\Minuto\Data\obj\Debug\netcoreapp3.0\Data.pdb

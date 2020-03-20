@@ -1,0 +1,11 @@
+C:\Users\cons.elzio.oliveira\Desktop\Teste\Minuto\Minuto\Model\obj\Debug\netcoreapp3.0\Domain.csprojAssemblyReference.cache
+C:\Users\cons.elzio.oliveira\Desktop\Teste\Minuto\Minuto\Model\obj\Debug\netcoreapp3.0\Domain.AssemblyInfoInputs.cache
+C:\Users\cons.elzio.oliveira\Desktop\Teste\Minuto\Minuto\Model\obj\Debug\netcoreapp3.0\Domain.AssemblyInfo.cs
+C:\Users\cons.elzio.oliveira\Desktop\Teste\Minuto\Minuto\Model\bin\Debug\netcoreapp3.0\Domain.deps.json
+C:\Users\cons.elzio.oliveira\Desktop\Teste\Minuto\Minuto\Model\bin\Debug\netcoreapp3.0\Domain.dll
+C:\Users\cons.elzio.oliveira\Desktop\Teste\Minuto\Minuto\Model\bin\Debug\netcoreapp3.0\Domain.pdb
+C:\Users\cons.elzio.oliveira\Desktop\Teste\Minuto\Minuto\Model\bin\Debug\netcoreapp3.0\Data.dll
+C:\Users\cons.elzio.oliveira\Desktop\Teste\Minuto\Minuto\Model\bin\Debug\netcoreapp3.0\Data.pdb
+C:\Users\cons.elzio.oliveira\Desktop\Teste\Minuto\Minuto\Model\obj\Debug\netcoreapp3.0\Domain.csproj.CopyComplete
+C:\Users\cons.elzio.oliveira\Desktop\Teste\Minuto\Minuto\Model\obj\Debug\netcoreapp3.0\Domain.dll
+C:\Users\cons.elzio.oliveira\Desktop\Teste\Minuto\Minuto\Model\obj\Debug\netcoreapp3.0\Domain.pdb
